@@ -21,4 +21,6 @@ This was my first analysis using R Studio to observe different speceies of pengu
 In this analysis, I was able to look at Oregon Spotted Frogs located in Crane Prairie Reservoir in Oregon, USA. The data provided insight to the frogs behavior in different enviornment types, water types, and predators near by. You can find my analysis [here](https://Staloumis.github.io/BioStatisticsAnalysis/BioStats%20Project.html)
 
 ### RNA Sequences
-RNA transcripts were taken from the Drosophila experiment which is a type of fly that is used to help genetically analyze how genes mutate.  
+RNA transcripts were taken from the Drosophila experiment which is a type of fly that is used to help genetically analyze how genes mutate. I did two parts to this analysis and they can be found here:
+Part 1 [here](https://Staloumis.github.io/BioStatisticsAnalysis/RNA-seq%20Part%201.html.md) 
+Part 2 [here](https://Staloumis.github.io/BioStatisticsAnalysis/RNA%20seq%20part%202.html.md)
