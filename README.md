@@ -1,9 +1,6 @@
-title: Sara Taloumis
-description: ## Sara's BioAnalysis
-
 Sara Taloumis<br/>
 &nbsp; Southern New Hammpshire University <br/>
-&nbsp; &nbsp; email: sara.taloumis@snhu.edu<br/>
+&nbsp; email: sara.taloumis@snhu.edu<br/>
 
 
 
